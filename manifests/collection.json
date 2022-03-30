@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Robinsonfr.github.io/ROBINSONtestIIIFWBench/manifests/manifest.json",
     "label" : "cool, nice"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Robinsonfr.github.io/ROBINSONtestIIIFWBench/manifests/manifest2",
+    "label" : "cool, nice"
   } ]
 }
